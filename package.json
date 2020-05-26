@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "testando uma api com nodejs",
+  "main": "CodigoVazio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J0a0vs/projectJ0a0vs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "teste",
+    "rest"
+  ],
+  "author": "João Victor dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J0a0vs/projectJ0a0vs/issues"
+  },
+  "homepage": "https://github.com/J0a0vs/projectJ0a0vs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
