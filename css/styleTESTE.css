@@ -1,0 +1,22 @@
+body {
+    margin-left: 50px;
+    background: rgb(67, 125, 163);
+    
+}
+footer {
+    margin-top: 100px;
+}
+
+
+h1 {
+    color: rebeccapurple;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 20px;
+}
