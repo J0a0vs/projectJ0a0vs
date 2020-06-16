@@ -13,15 +13,16 @@ ul {
     background-color:#252323 ;
     height: 60px;
 }
-main {
+main ::content {
     margin: 0 auto;
     width: 980px;
     position: relative;
 }
 .logo {
     float: left;
-    padding: 10px;
-    width: 65%;
+    padding: 8px;
+    width: 30%;
+    margin-left: 190px;
 }
 .redes-sociais ul li {
     margin-left: 25px;
@@ -29,7 +30,7 @@ main {
     float: left;
 }
 .redes-sociais {
-    width: 25%;
+    width: 32%;
     float: right;
 }
 
@@ -143,4 +144,33 @@ li.slick-active button {
 .slick-dots li {
     padding-left: 10px;
     display: inline-block;
+}
+
+.texto-destaque {
+    text-align: center;
+}
+
+.texto-destaque p {
+    font-size: 20px;
+    color: #9a9a9a;
+}
+
+.texto-destaque h1 {
+    text-transform: uppercase;
+    color: #818181;
+}
+
+.texto-destaque strong {
+    color: #646464;
+}
+
+.col-3 {
+    width: 33.3%;
+    float: left;
+    position: relative;
+    display: inline-block;
+}
+
+h3 {
+    font-weight: normal;
 }
