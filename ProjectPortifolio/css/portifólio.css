@@ -1,0 +1,113 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.container3 p {
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    position: absolute;
+}
+.container3 ul {
+    padding-left: 1100px;
+}
+.container3 a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.container3 ul li {
+    display: inline-block;
+}
+header {
+    background: greenyellow;
+    padding-bottom: 70px;
+}
+
+div.container4 {
+    padding-top: 100px;
+    height: 10em;
+    position: relative 
+}
+div.container4 img {
+    margin: 0;
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
+.container4 ul li a {
+    position: absolute;
+    padding-left: 1190px;
+}
+.container4 ul li {
+    margin-left: 25px;
+    display: inline-block;
+    padding-top: 199px;
+}
+
+div.container4 h4 {
+    margin: 0;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    padding-top: 170px;
+    font-family:Helvetica Narrow, sans-serif;
+}
+div.container4 h5 {
+    margin: 0;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    padding-top: 200px;
+    font-family:Helvetica Narrow, sans-serif;
+    padding-top: 250px;
+}
+div.container4 p {
+    margin: 0;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    padding-top: 200px;
+    font-family:Helvetica Narrow, sans-serif;
+    padding-top: 220px;
+}
+
+img {
+    border-radius: 50%;
+}
+.container5 {
+    padding-top:20px ;
+    padding-bottom:20px ;
+}
+.container5 h2 {
+    text-align: center;
+    font-family:Helvetica Narrow, sans-serif;
+}
+.container5 p {
+    text-align: center;
+    margin-left: 200px ;
+    margin-right: 200px ;
+    font-family:Helvetica Narrow, sans-serif;
+}
+.container6 {
+    background: greenyellow;
+    padding-top:20px ;
+    padding-bottom:20px ;
+}
+.container6 h2 {
+    text-align: center;
+    font-family:Helvetica Narrow, sans-serif;
+}
+.container6 p {
+    text-align: center;
+    font-family:Helvetica Narrow, sans-serif;
+}
